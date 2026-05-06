@@ -78,7 +78,9 @@ Siguiendo a Manovich, en ambos casos no estamos ante una simple mezcla de medios
 ## Referencias
 
 Manovich, L. (2013). *El software toma el mando*.  
-https://www.notion.so  
-https://www.figma.com
-Logotipo de Notion: https://commons.wikimedia.org/wiki/File:Notion_app_logo.png  
-Logotipo de Figma: https://commons.wikimedia.org/wiki/File:Figma-logo.svg
+
+Sitio web oficial de Notion: https://www.notion.so  
+Sitio web oficial de Figma: https://www.figma.com  
+
+Logotipo de Notion obtenido de Wikimedia Commons.  
+Logotipo de Figma obtenido de Wikimedia Commons.
