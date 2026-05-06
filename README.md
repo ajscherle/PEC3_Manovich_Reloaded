@@ -9,6 +9,8 @@ Antonio Scherle Montero
 
 En esta práctica se analizan dos casos de hibridación en la cultura digital contemporánea desde la perspectiva de Lev Manovich. De forma resumida, la hibridación se produce cuando técnicas y propiedades de distintos medios pasan a convertirse en software y pueden combinarse entre sí, dando lugar a nuevas formas que no se pueden entender simplemente como una suma de partes.
 
+En este sentido, como señala Manovich, las propiedades de los distintos medios se convierten en elementos de software que pueden combinarse entre sí, generando nuevas formas culturales que van más allá de la simple suma de sus partes.
+
 Para este trabajo he elegido Notion y Figma. Son herramientas bastante actuales y, aunque no las conocía en profundidad al empezar, al analizarlas se ve bastante claro cómo el software no solo mezcla cosas, sino que cambia la forma en la que usamos esos medios.
 
 ---
@@ -22,6 +24,8 @@ Notion es una herramienta digital que combina edición de texto, gestión de tar
 Si lo comparamos con un documento tradicional, la diferencia es bastante clara. Normalmente escribimos texto en un formato lineal: párrafos, títulos, listas… y poco más. En Notion, en cambio, el contenido se organiza en bloques que puedes transformar en tablas, calendarios o listas sin cambiar realmente la información.
 
 Aquí es donde se ve la hibridación. No es simplemente multimedia (no es juntar texto con imágenes), sino que se están mezclando dos lógicas distintas: la del documento y la de las bases de datos. El resultado es algo nuevo, porque el texto deja de ser fijo y pasa a comportarse como datos que puedes manipular.
+
+Por tanto, no se trata simplemente de multimedia, ya que no estamos ante la coexistencia de varios formatos, sino ante una integración que genera una nueva lógica de uso del medio.
 
 Por ejemplo, una lista de tareas puede convertirse en una tabla con estados o en un calendario según lo que necesites. La información es la misma, pero la forma de interactuar con ella cambia completamente. Esto encaja bastante bien con la idea de Manovich de nuevas formas de representación.
 
@@ -51,6 +55,8 @@ Aquí la hibridación se da sobre todo en la interfaz y en la interacción. El d
 
 Por ejemplo, mientras una persona modifica un elemento visual, otra puede cambiar colores o tipografías y otra añadir comentarios. Todo esto pasa en directo y dentro del mismo espacio. Esto no es simplemente añadir chat al diseño, sino integrar la interacción dentro del propio medio.
 
+De nuevo, no es solo multimedia, ya que no se limita a combinar funciones, sino que transforma la forma en la que se produce el diseño, generando una experiencia completamente integrada.
+
 Además, Figma permite crear prototipos interactivos. Esto añade otra capa interesante, porque no solo diseñas cómo se ve algo, sino también cómo funciona. Aquí se mezcla el diseño visual con la lógica de navegación del software.
 
 Esto cambia bastante la naturaleza del diseño. Ya no se trata de hacer un archivo final, sino de participar en un proceso continuo. El diseño deja de ser algo cerrado y pasa a estar en constante cambio.
@@ -67,11 +73,13 @@ En resumen, Figma no es solo una mejora de las herramientas de diseño tradicion
 
 ## Conclusión
 
-Después de analizar ambos casos, se puede ver que tanto Notion como Figma son ejemplos bastante claros de hibridación en la cultura digital actual.
+Después de analizar ambos casos, se puede ver que tanto Notion como Figma son ejemplos claros de hibridación en la cultura digital actual.
 
-En Notion, el documento pasa de ser algo lineal a convertirse en un sistema de datos que puedes manipular. En Figma, el diseño deja de ser individual y se convierte en un proceso colaborativo en tiempo real.
+En Notion, el documento pasa de ser algo lineal a convertirse en un sistema de datos manipulables. En Figma, el diseño deja de ser una actividad individual para convertirse en un proceso colaborativo en tiempo real. En ambos casos, el software no solo integra funcionalidades, sino que transforma la naturaleza del medio.
 
-Siguiendo a Manovich, en ambos casos no estamos ante una simple mezcla de medios, sino ante nuevas formas de experiencia digital donde el software cambia la forma en la que interactuamos con la información.
+Siguiendo a Manovich, estos ejemplos muestran cómo el software actúa como motor de cambio en los medios, permitiendo nuevas formas de representación e interacción que antes no eran posibles.
+
+Desde un punto de vista personal, lo más interesante es cómo estas herramientas cambian la forma en la que trabajamos sin que muchas veces seamos conscientes. Ya no usamos simplemente programas, sino entornos que combinan distintas lógicas y crean nuevas formas de experiencia digital.
 
 ---
 
