@@ -15,7 +15,7 @@ Para este trabajo he elegido Notion y Figma. Son herramientas bastante actuales 
 
 ## Caso 1: Notion
 
-![Notion](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="150">
 
 Notion es una herramienta digital que combina edición de texto, gestión de tareas y bases de datos en un mismo entorno. Antes de esta práctica no la había utilizado demasiado, pero al probarla un poco se entiende rápido que no es solo una app de notas como podría parecer al principio.
 
@@ -40,6 +40,8 @@ En resumen, Notion no es solo una evolución del documento tradicional, sino un 
 ---
 
 ## Caso 2: Figma
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="150">
 
 Figma es una herramienta de diseño digital que permite crear interfaces y prototipos desde el navegador. A diferencia de otros programas como Photoshop, introduce algo bastante clave: varias personas pueden trabajar a la vez sobre el mismo diseño.
 
@@ -78,3 +80,5 @@ Siguiendo a Manovich, en ambos casos no estamos ante una simple mezcla de medios
 Manovich, L. (2013). *El software toma el mando*.  
 https://www.notion.so  
 https://www.figma.com
+Logotipo de Notion: https://commons.wikimedia.org/wiki/File:Notion_app_logo.png  
+Logotipo de Figma: https://commons.wikimedia.org/wiki/File:Figma-logo.svg
